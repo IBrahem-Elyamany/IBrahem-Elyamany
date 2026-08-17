@@ -19,7 +19,7 @@
 
 <!-- Activity Highlights (Streak & Overall Stats) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
 <br/>
