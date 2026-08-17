@@ -79,12 +79,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true" alt="Ibrahem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true" alt="Ibrahem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
