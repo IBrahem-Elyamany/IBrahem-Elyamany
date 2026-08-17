@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=IBrahem-Elyamany&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile Views" />
+  
+  <br/><br/>
+
   <h1>Hi there, I'm Ibrahem Mohamed 👋</h1>
   <p><strong>AI & Machine Learning Engineer | Scientific Computing Graduate</strong></p>
   <p>Passionate about Deep Learning architectures, Signal Processing (EEG/ECG), RAG systems, and IoT/Embedded development.</p>
@@ -18,12 +23,12 @@
 <br/>
 
 ### 🌟 About Me
-- 🎓 **B.Sc. in Computer and Information Sciences** (Major: Scientific Computing), Ain Shams University (GPA: 3.4)[cite: 2].
-- 🧠 Specialized in **Biosignal Processing & Deep Learning** (EEG Emotion Classification & ECG Arrhythmia/LBBB Detection)[cite: 2].
-- 🤖 Built enterprise **RAG Architectures & NLP Pipelines** with FastAPI, ChromaDB, and LLM APIs[cite: 2].
-- 👁️ Experienced in **Computer Vision** (U-Net Semantic Segmentation, ViT, CNNs, OpenCV)[cite: 2].
-- 🎮 Developed 3D Interactive systems & game physics in **Unity**[cite: 2].
-- 📍 Based in Cairo, Egypt[cite: 2].
+- 🎓 **B.Sc. in Computer and Information Sciences** (Major: Scientific Computing), Ain Shams University (GPA: 3.4).
+- 🧠 Specialized in **Biosignal Processing & Deep Learning** (EEG Emotion Classification & ECG Arrhythmia/LBBB Detection).
+- 🤖 Built enterprise **RAG Architectures & NLP Pipelines** with FastAPI, ChromaDB, and LLM APIs.
+- 👁️ Experienced in **Computer Vision** (U-Net Semantic Segmentation, ViT, CNNs, OpenCV).
+- 🎮 Developed 3D Interactive systems & game physics in **Unity**.
+- 📍 Based in Cairo, Egypt.
 
 ---
 
@@ -63,52 +68,52 @@
 
 ### 🚀 Highlighted Projects
 
-* **🧠 Neuromarketing EEG Emotion Classification (Graduation Project):** End-to-end Signal Processing & Deep Learning pipeline extracting time-frequency/PSD features from multi-channel EEG signals for human emotional state classification[cite: 2].
-* **🤖 CV Matcher (Local RAG & AI Recruitment System):** Multi-format parsing (24k+ resumes via PyMuPDF & Tesseract OCR), semantic candidate retrieval, and structured HR gap evaluation using FastAPI, ChromaDB, and Google Gemini[cite: 2].
-* **🎮 Lumina: The Way Back (Unity 3D Game):** 3D atmospheric platformer featuring dynamic raycast lighting mechanics ("Light is Life"), physics-based controls, and enemy AI pathfinding via NavMesh[cite: 2].
-* **📈 Food & Fruit Segmentation & Calorie Estimation:** Binary semantic segmentation U-Net model with ResNet34 backbone achieving 99.82% validation accuracy and 0.9946 IoU score[cite: 2].
-* **🛡️ Network Intrusion Detection (IBM Watsonx.ai):** ML pipeline utilizing the NSL-KDD dataset for classifying network traffic into normal vs. attack patterns with ~99.5% accuracy[cite: 2].
-* **💓 DSP – ECG Normal vs LBBB:** Digital signal processing pipeline applying bandpass filtering, baseline wandering removal, and QRS feature extraction to classify normal rhythms vs. LBBB patterns[cite: 2].
-* **🏆 Kaggle: Scene Style Classification (NN26):** Ranked 15th (Private Leaderboard) out of 37 teams for 17-class architectural interior style classification using fine-tuned GoogLeNet and ViT[cite: 2].
-* **🗺️ Map Routing Engine:** High-performance Dijkstra-based search for massive weighted graph maps (200k+ intersections) with multi-mode transport simulation (walking vs. vehicle)[cite: 2].
-* **🛍️ Snap Shop Mobile App:** Cross-platform e-commerce app built with Flutter and Firebase featuring real-time catalog syncing, user auth, and cart state management[cite: 2].
-* **🔌 Smart Plug (IoT):** Award-winning IoT project (1st place at RoboTech) using NodeMCU and Wi-Fi management for remote device power control and scheduled timers[cite: 2].
+* **🧠 Neuromarketing EEG Emotion Classification (Graduation Project):** End-to-end Signal Processing & Deep Learning pipeline extracting time-frequency/PSD features from multi-channel EEG signals for human emotional state classification.
+* **🤖 CV Matcher (Local RAG & AI Recruitment System):** Multi-format parsing (24k+ resumes via PyMuPDF & Tesseract OCR), semantic candidate retrieval, and structured HR gap evaluation using FastAPI, ChromaDB, and Google Gemini.
+* **🎮 Lumina: The Way Back (Unity 3D Game):** 3D atmospheric platformer featuring dynamic raycast lighting mechanics ("Light is Life"), physics-based controls, and enemy AI pathfinding via NavMesh.
+* **📈 Food & Fruit Segmentation & Calorie Estimation:** Binary semantic segmentation U-Net model with ResNet34 backbone achieving 99.82% validation accuracy and 0.9946 IoU score.
+* **🛡️ Network Intrusion Detection (IBM Watsonx.ai):** ML pipeline utilizing the NSL-KDD dataset for classifying network traffic into normal vs. attack patterns with ~99.5% accuracy.
+* **💓 DSP – ECG Normal vs LBBB:** Digital signal processing pipeline applying bandpass filtering, baseline wandering removal, and QRS feature extraction to classify normal rhythms vs. LBBB patterns.
+* **🏆 Kaggle: Scene Style Classification (NN26):** Ranked 15th (Private Leaderboard) out of 37 teams for 17-class architectural interior style classification using fine-tuned GoogLeNet and ViT.
+* **🗺️ Map Routing Engine:** High-performance Dijkstra-based search for massive weighted graph maps (200k+ intersections) with multi-mode transport simulation (walking vs. vehicle).
+* **🛍️ Snap Shop Mobile App:** Cross-platform e-commerce app built with Flutter and Firebase featuring real-time catalog syncing, user auth, and cart state management.
+* **🔌 Smart Plug (IoT):** Award-winning IoT project (1st place at RoboTech) using NodeMCU and Wi-Fi management for remote device power control and scheduled timers.
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics & Activity
 
+<!-- Row 1: Languages & Overall Stats -->
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Overall Stats" width="48%" />
 </div>
 
 <br/>
 
+<!-- Row 2: Streak & Productive Time -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrahem-Elyamany&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="96%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Overall Stats" width="55%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IBrahem-Elyamany/IBrahem-Elyamany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IBrahem-Elyamany&theme=radical&utcOffset=3" alt="Productive Time" width="48%" />
 </div>
 
+<br/>
+
+<!-- Row 3: Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrahem-Elyamany&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="97%" />
 </div>
 
+<br/>
+
+<!-- Row 4: Contribution Snake -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IBrahem-Elyamany&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/IBrahem-Elyamany/IBrahem-Elyamany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="97%" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="80%" />
-</div>
+<br/>
 
+<!-- Row 5: Daily Tech Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="85%" />
+</div>
