@@ -79,16 +79,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
-  
-  <!-- Profile Trophy / Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=IBrahem-Elyamany&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="60%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Activity / Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrahem-Elyamany&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="96%" />
 </div>
