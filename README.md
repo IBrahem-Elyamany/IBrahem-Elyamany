@@ -79,12 +79,16 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true" alt="Ibrahem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <!-- Top Languages (شغال ومستقر) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrahem-Elyamany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <!-- GitHub Trophies (إنجازات وجوائز البروفايل) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=IBrahem-Elyamany&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Activity Graph (رسم بياني لنشاطك الفعلي بدون مشاكل API) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrahem-Elyamany&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
