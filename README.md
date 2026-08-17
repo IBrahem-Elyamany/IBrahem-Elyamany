@@ -19,8 +19,7 @@
 
 <!-- Activity Highlights (Streak & Overall Stats) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Overall Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" width="85%" />
 </div>
 
 <br/>
@@ -103,7 +102,7 @@
 
 <!-- Footer: Quote & Profile Views -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="90%" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=IBrahem-Elyamany&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile Views" />
 </div>
