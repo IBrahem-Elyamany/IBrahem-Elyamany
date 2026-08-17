@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=IBrahem-Elyamany&theme=radical" alt="Commits per Day" width="48%" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=IBrahem-Elyamany&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
