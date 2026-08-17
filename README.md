@@ -87,3 +87,28 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrahem-Elyamany&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="96%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IBrahem-Elyamany&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Overall Stats" width="55%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IBrahem-Elyamany/IBrahem-Elyamany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IBrahem-Elyamany&theme=radical&utcOffset=3" alt="Productive Time" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=IBrahem-Elyamany&theme=radical" alt="Commits per Day" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IBrahem-Elyamany&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="80%" />
+</div>
+
